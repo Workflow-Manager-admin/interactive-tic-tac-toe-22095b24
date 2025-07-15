@@ -29,15 +29,10 @@
   transition: background-color 0.3s ease, color 0.3s ease;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
+/* .App-logo and related styles removed because the logo is no longer used. */
 
 @media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+  /* Old logo animation removed */
 }
 
 .App-header {
